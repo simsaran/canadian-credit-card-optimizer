@@ -1,0 +1,25 @@
+{
+  "test": "Chi-Square Test of Independence",
+  "hypothesis": "Is there a statistically significant association between product category and root cause?",
+  "chi2_statistic": 113.56,
+  "p_value": 0.0,
+  "degrees_of_freedom": 20,
+  "result": "Statistically significant association",
+  "interpretation": "Product category and root cause are NOT independent. Certain product categories are disproportionately linked to specific failure modes. This supports targeted prevention strategies by category.",
+  "practical_implication": "Meat and Poultry should prioritise microbiological controls. Bakery and Snacks should prioritise allergen management. Pharmaceuticals should prioritise labelling and process controls.",
+  "categories_tested": [
+    "Meat and Poultry",
+    "Dairy and Eggs",
+    "Prepared and Packaged Foods",
+    "Fruits and Vegetables",
+    "Bakery and Snacks",
+    "Pharmaceuticals"
+  ],
+  "root_causes_tested": [
+    "Microbiological contamination",
+    "Process deviation",
+    "Labelling error",
+    "Undeclared allergen",
+    "Chemical contamination"
+  ]
+}
