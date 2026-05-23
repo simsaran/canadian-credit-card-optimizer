@@ -1,0 +1,4 @@
+Profile,Name,Description,Monthly Groceries CAD,Monthly Gas CAD,Monthly Dining CAD,Monthly Transit CAD,Monthly Travel CAD,Monthly Online Shopping CAD,Monthly Subscriptions CAD,Monthly Other CAD,Annual Income CAD,Travel Frequency,FX Transactions Monthly
+Profile 1,Recent Grad,"Just moved from Waterloo to Mississauga. Setting up a new apartment, figuring out transit, grocery shopping for the first time alone.",350,40,120,150,50,80,60,100,45000,Rarely,Low
+Profile 2,Young Professional,"Two years into their career. Higher income, more dining out, occasional travel, gym membership, growing lifestyle spend.",500,120,300,100,200,150,100,200,75000,Occasionally,Medium
+Profile 3,Dual Income Household,"Established household with two incomes. High grocery and gas spend, regular family dining, annual vacations, children activities.",900,300,400,80,400,200,150,400,140000,Frequently,High
