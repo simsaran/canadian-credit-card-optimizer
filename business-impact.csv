@@ -1,0 +1,4 @@
+Recall Class,Description,Estimated Cost Range (CAD),Low Estimate (CAD),High Estimate (CAD),Midpoint (CAD),Cost Drivers,Recalls in Dataset,Top Category,Source
+Class I,Serious health risk,$2M to $30M,2000000,30000000,16000000,"Product destruction, logistics, regulatory response, legal liability, brand damage, market share loss",307,Meat and Poultry,CFIA recall cost benchmarks and industry reports
+Class II,Temporary adverse health consequences,$500K to $5M,500000,5000000,2750000,"Product retrieval, customer notification, regulatory reporting, brand impact",379,Prepared and Packaged Foods,CFIA recall cost benchmarks and industry reports
+Class III,Unlikely to cause adverse health consequences,$50K to $500K,50000,500000,275000,"Product retrieval, customer communication, regulatory reporting",161,Bakery and Snacks,CFIA recall cost benchmarks and industry reports

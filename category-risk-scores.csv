@@ -1,0 +1,13 @@
+Product Category,Total Recalls,Class I Recalls,Class I Rate (%),Avg Composite Risk Score,Category Risk Score,Risk Level,% of All Recalls
+Meat and Poultry,124,48,38.7,1.66,3.45,High,14.6
+Dairy and Eggs,102,41,40.2,1.6,3.21,High,12.0
+Prepared and Packaged Foods,105,41,39.0,1.58,3.2,High,12.4
+Fruits and Vegetables,85,28,32.9,1.43,2.71,High,10.0
+Bakery and Snacks,64,25,39.1,1.45,2.65,High,7.6
+Pharmaceuticals,66,25,37.9,1.41,2.62,High,7.8
+Infant Formula and Baby Food,56,19,33.9,1.55,2.45,Medium,6.6
+Medical Devices,30,13,43.3,1.47,2.39,Medium,3.5
+Seafood,70,19,27.1,1.37,2.32,Medium,8.3
+Beverages,53,17,32.1,1.4,2.29,Medium,6.3
+Cosmetics and Personal Care,51,16,31.4,1.37,2.23,Medium,6.0
+Dietary Supplements,41,15,36.6,1.26,2.21,Medium,4.8

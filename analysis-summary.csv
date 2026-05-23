@@ -1,0 +1,16 @@
+Metric,Value,Notes
+Total recalls analysed,847,January 2023 to April 2026
+Date range,January 2023 to April 2026,28 months of Health Canada recall data
+Product categories covered,12,"Food, pharmaceutical, medical device, cosmetics"
+Root causes classified,10,Based on Health Canada recall notice taxonomy
+Class I recalls (serious health risk),307,36.2% of total
+Class II recalls (temporary risk),379,44.7% of total
+Class III recalls (low risk),161,19.0% of total
+Top root cause,Microbiological contamination,149 recalls (17.6%)
+Top product category by volume,Meat and Poultry,124 recalls (14.6%)
+Highest risk category,Meat and Poultry,Highest composite risk score
+Chi-square test result,p < 0.05,Statistically significant association between category and root cause
+Monthly average recall volume,21.7,Recalls per month across study period
+Control chart UCL,48.0,Upper control limit — months above this flagged as elevated
+Total estimated industry cost (midpoint),"$5,998,525,000",Based on CFIA benchmark cost ranges
+Most preventable root cause,Undeclared allergen,100% preventable with robust allergen management
