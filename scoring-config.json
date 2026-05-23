@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "key": "Groceries",
+      "profile_key": "Monthly Groceries CAD",
+      "rate_key": "Groceries Rate %",
+      "cap_key": "Groceries Cap Monthly CAD"
+    },
+    {
+      "key": "Gas",
+      "profile_key": "Monthly Gas CAD",
+      "rate_key": "Gas Rate %",
+      "cap_key": "Gas Cap Monthly CAD"
+    },
+    {
+      "key": "Dining",
+      "profile_key": "Monthly Dining CAD",
+      "rate_key": "Dining Rate %",
+      "cap_key": null
+    },
+    {
+      "key": "Transit",
+      "profile_key": "Monthly Transit CAD",
+      "rate_key": "Transit Rate %",
+      "cap_key": null
+    },
+    {
+      "key": "Travel",
+      "profile_key": "Monthly Travel CAD",
+      "rate_key": "Travel Rate %",
+      "cap_key": null
+    },
+    {
+      "key": "Online Shopping",
+      "profile_key": "Monthly Online Shopping CAD",
+      "rate_key": "Online Shopping Rate %",
+      "cap_key": null
+    },
+    {
+      "key": "Subscriptions",
+      "profile_key": "Monthly Subscriptions CAD",
+      "rate_key": "Subscriptions Rate %",
+      "cap_key": null
+    },
+    {
+      "key": "Other",
+      "profile_key": "Monthly Other CAD",
+      "rate_key": "Other Rate %",
+      "cap_key": null
+    }
+  ]
+}
